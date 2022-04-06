@@ -22,11 +22,11 @@ namespace FirstMVCCoreApp1.Repository
         {
             return new List<BookModel>()
             {
-                new BookModel(){Id=1, Title="MVC1", Author ="Khan1"},
-                new BookModel(){Id=2, Title="MVC2", Author ="Khan2"},
-                new BookModel(){Id=3, Title="MVC3", Author ="Khan3"},
-                new BookModel(){Id=4, Title="MVC4", Author ="Khan4"},
-                new BookModel(){Id=5, Title="MVC5", Author ="Khan5"},
+                new BookModel(){Id=1, Title="MVC1", Author ="Khan1", Description="This is the description for MVC1 Book"},
+                new BookModel(){Id=2, Title="MVC2", Author ="Khan2", Description="This is the description for MVC2 Book"},
+                new BookModel(){Id=3, Title="MVC3", Author ="Khan3", Description="This is the description for MVC3 Book"},
+                new BookModel(){Id=4, Title="MVC4", Author ="Khan4", Description="This is the description for MVC4 Book"},
+                new BookModel(){Id=5, Title="MVC5", Author ="Khan5", Description="This is the description for MVC5 Book"},
             };
         }
     }

@@ -1,0 +1,7 @@
+D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1\obj\Release\net6.0\PubTmp\Out\FirstMVCCoreApp1.exe
+D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1\obj\Release\net6.0\PubTmp\Out\FirstMVCCoreApp1.dll
+D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1\obj\Release\net6.0\PubTmp\Out\FirstMVCCoreApp1.deps.json
+D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1\obj\Release\net6.0\PubTmp\Out\FirstMVCCoreApp1.runtimeconfig.json
+D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1\obj\Release\net6.0\PubTmp\Out\FirstMVCCoreApp1.pdb

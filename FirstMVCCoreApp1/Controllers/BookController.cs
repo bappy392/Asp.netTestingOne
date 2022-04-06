@@ -12,9 +12,11 @@ namespace FirstMVCCoreApp1.Controllers
             bookRepository = new BookRepository();
 
         }
-        public List<BookModel> GetAllBooks()
+        public ViewResult GetAllBooks()
         {
-            return bookRepository.GetAllBooks();
+            var data= bookRepository.GetAllBooks();
+
+            return View(data);
         }
 
         public BookModel GetBook(int id)

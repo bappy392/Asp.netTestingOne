@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9sGSEx8ABhxinwKnow5+s7M8x9myLSa8WAtJOEY2/FA=",
+  "Hash": "w9gQgu5BDrRTvAPXR3wEa8TeZBN7DVn19YVFH88xIVg=",
   "Source": "FirstMVCCoreApp1",
   "BasePath": "_content/FirstMVCCoreApp1",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\ASP\\Asp.netCoreTutorial\\_Core 3.1_Tutorial\\Code\\FirstMVCCoreApp1\\FirstMVCCoreApp1\\wwwroot\\images\\logo.png",
+      "SourceId": "FirstMVCCoreApp1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\ASP\\Asp.netCoreTutorial\\_Core 3.1_Tutorial\\Code\\FirstMVCCoreApp1\\FirstMVCCoreApp1\\wwwroot\\",
+      "BasePath": "_content/FirstMVCCoreApp1",
+      "RelativePath": "images/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
     },
     {
       "Identity": "D:\\ASP\\Asp.netCoreTutorial\\_Core 3.1_Tutorial\\Code\\FirstMVCCoreApp1\\FirstMVCCoreApp1\\wwwroot\\js\\site.js",

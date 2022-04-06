@@ -11,9 +11,13 @@ build_property.RootNamespace = FirstMVCCoreApp1
 build_property.ProjectDir = D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = D:\ASP\Asp.netCoreTutorial\_Core 3.1_Tutorial\Code\FirstMVCCoreApp1\FirstMVCCoreApp1
 build_property._RazorSourceGeneratorDebug = 
+
+[D:/ASP/Asp.netCoreTutorial/_Core 3.1_Tutorial/Code/FirstMVCCoreApp1/FirstMVCCoreApp1/Views/Book/GetAllBooks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va1xHZXRBbGxCb29rcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
 
 [D:/ASP/Asp.netCoreTutorial/_Core 3.1_Tutorial/Code/FirstMVCCoreApp1/FirstMVCCoreApp1/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
